@@ -1,8 +1,7 @@
 This project investigates global lunar missions using data science and business intelligence tools.
 We analyzed a dataset of over 150 moon missions, including details like launch dates, mission types, outcomes, spacecraft, and operators.
 
-Using Python (Pandas, Matplotlib) and Power BI, we explored and visualized:
-
+Using Python (Pandas, Matplotlib,Numpy and seaborn) and powerful visualisation tool Power BI, we explored and visualized:
 Mission frequency over time
 Success rates by operator (NASA, ISRO, Roscosmos, etc.)
 Most common launch vehicles and mission types
